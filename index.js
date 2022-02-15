@@ -1,4 +1,4 @@
-import Library from './modules/Library.js';
+import Library from './modules/library.js';
 import Book from './modules/book.js';
 import {
   displayNewElement,
@@ -12,7 +12,6 @@ import {
   contactInfoButton,
 } from './modules/booksList.js';
 import { luxon } from './modules/luxon.js';
-
 
 const library = new Library();
 
