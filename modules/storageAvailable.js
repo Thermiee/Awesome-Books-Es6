@@ -1,4 +1,4 @@
-export default function storageAvailable(type) {
+const storageAvailable = (type) => {
   // Check if Storage is available
   let storage;
   try {
@@ -15,4 +15,6 @@ export default function storageAvailable(type) {
         || e.name === 'NS_ERROR_DOM_QUOTA_REACHED')
       && (storage && storage.length !== 0);
   }
-}
+};
+
+export default storageAvailable;
