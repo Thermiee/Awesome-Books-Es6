@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://thermiee.github.io/Awesome-Books/)
+[Live Demo Link](https://thermiee.github.io/Awesome-Books-Es6/)
 
 ### Prerequisites
 The basic requirements for building the executable are:
