@@ -36,7 +36,7 @@ Open index.html in Chrome
 👤 **Emmanuel Jolugbo**
 
 - GitHub: [@Thermiee](https://github.com/thermiee)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jolugbo-temiloluwa-b96a54167/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/emmanuel-jolugbo/)
 
 ## 🤝 Contributing
 
